@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Raquel Moss Assignment One</string>
+    <string name="phone_number">Phone number</string>
+    <string name="back">←</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="star">*</string>
+    <string name="_0">0</string>
+    <string name="hash">#</string>
+    <string name="send">Call</string>
+    <string name="permission_denied">To use the dialer app, please grant the requested permissions. Thanks!</string>
+</resources>
